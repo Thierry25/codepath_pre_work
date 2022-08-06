@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="introduction">Hello World, My name is Thierry, I want to learn to develop Android applications. I love to code, listen to music, and play video games</string>
+    <string name="image">Image of a man holding a colored smoke device</string>
+    <string name="click_me">Click Me</string>
+</resources>
